@@ -184,7 +184,7 @@
 ---
 ## 攻略与玩法
 
-请到https://github.com/NLAmc/Planetary-Exodus-Strategy
+请到https://github.com/hulun0933/Planetary-Exodus-Strategy
 
 ---
 
