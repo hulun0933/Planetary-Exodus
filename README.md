@@ -4,7 +4,7 @@
 > 而是为了——  
 > 让整个文明活下去。**
 
-![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.1-brightgreen)
+![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20.1-brightgreen)
 ![Mod Loader](https://img.shields.io/badge/Loader-Fabric-blue)
 ![Status](https://img.shields.io/badge/Project-Active-orange)
 ![Genre](https://img.shields.io/badge/Genre-Hard%20Sci--Fi-purple)
@@ -185,6 +185,15 @@
 ## 攻略与玩法
 
 请到https://github.com/hulun0933/Planetary-Exodus-Strategy
+
+---
+
+## 📃 此mod的总体布局
+
+有些文件太大没能上传
+
+<img width="406" height="891" alt="image" src="https://github.com/user-attachments/assets/020fe07f-2cf7-47ba-8e23-a99706df5dc2" />
+
 
 ---
 
