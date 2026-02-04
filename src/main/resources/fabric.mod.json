@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "planetaryexodus",
+  "version": "1.0.0",
+
+  "name": "Planetary Exodus",
+  "description": "A server-side civilization survival and planetary migration mod.",
+  "authors": ["Ichigo"],
+  "contact": {
+    "sources": "https://github.com/hulun0933/Planetary-Exodus"
+  },
+
+  "license": "MIT",
+  "environment": "*",
+
+  "entrypoints": {
+    "main": [
+      "com.planetaryexodus.PlanetaryExodusMod"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric": "*",
+    "minecraft": "1.20.1"
+  }
+}

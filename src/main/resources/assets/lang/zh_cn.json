@@ -1,0 +1,9 @@
+{
+  "planet.status": "行星状态",
+  "planet.status.stable": "稳定",
+  "planet.status.strained": "紧张",
+  "planet.status.degraded": "衰退",
+  "planet.status.collapsing": "崩溃",
+  "ending.success": "文明成功完成迁移。",
+  "ending.failure": "行星已经彻底毁灭。"
+}

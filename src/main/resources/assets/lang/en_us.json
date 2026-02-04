@@ -1,0 +1,9 @@
+{
+  "planet.status": "Planet Status",
+  "planet.status.stable": "Stable",
+  "planet.status.strained": "Strained",
+  "planet.status.degraded": "Degraded",
+  "planet.status.collapsing": "Collapsing",
+  "ending.success": "Civilization successfully migrated.",
+  "ending.failure": "The planet has collapsed."
+}
