@@ -155,7 +155,7 @@
 
 ## ⚙️ 技术实现
 
-- Minecraft Java 1.21.1  
+- Minecraft Java 1.20.1  
 - Fabric  
 - 单主模组 + 多子系统  
 - 数据驱动配置（JSON）  
