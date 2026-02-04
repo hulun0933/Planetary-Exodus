@@ -196,9 +196,10 @@
 
 有些文件太大没能上传
 
-总文件在这里 https://drive.google.com/file/d/1Ch1gGZfmg4tzfxQN0Nku0TLaOozbcHCj/view?usp=sharing
+总文件在这里 # https://drive.google.com/file/d/1Ch1gGZfmg4tzfxQN0Nku0TLaOozbcHCj/view?usp=sharing
 
-<img width="406" height="891" alt="image" src="https://github.com/user-attachments/assets/020fe07f-2cf7-47ba-8e23-a99706df5dc2" />
+<img width="278" height="814" alt="image" src="https://github.com/user-attachments/assets/2178b3cf-c856-4cad-b517-cda0c892eb23" />
+
 
 
 ---
